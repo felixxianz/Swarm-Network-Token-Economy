@@ -16,3 +16,4 @@ Stable factor (SF) is a grading system based on stable online time
 There will be X portion of Reward Pool PL
 For a bee node to get reward is based on how much contribution it has provided:   
 
+$$RW=SF\times\frac{(BC\times SC\times T)}{\sum_{ }^{}BC\times SC\times T}\times PL\times X$$
